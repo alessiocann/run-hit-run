@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 9bd3d81198f252e45b859cd2f14df92a
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: d910374d780f1cf478031c6b3619173d
+  - enabled: 1
+    path: Assets/Scenes/Opzioni.unity
+    guid: 4a6c9b5100b104d48934276cff667438
+  - enabled: 1
+    path: Assets/Scenes/Crediti.unity
+    guid: e867df6d72e49a14bbddc54a16b0b529
+  - enabled: 1
+    path: Assets/Scenes/TutorialGame.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: c976d35f96e8dae4e8d4c4ed738c6370
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 357e3750a612f7640936898ed8322274
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 4582c10a0ec2dd94d8c053646c59aa17
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: bfa7d63d32f9c0e4d96fb3045a191e74
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: c0b06772e468e7d4ab328ecad5a43d22
+  - enabled: 1
+    path: Assets/Scenes/InizioLiv1.unity
+    guid: be1bdfb4f2ad1eb4abfc9238586df70e
+  - enabled: 1
+    path: Assets/Scenes/InizioLiv2.unity
+    guid: f7e8219d6e4e9f046a300a321fd9e856
+  - enabled: 1
+    path: Assets/Scenes/InizioLiv3.unity
+    guid: 1adc7d17a5106d942ba99ed6a14f8203
+  m_configObjects: {}
